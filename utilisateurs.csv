@@ -1,0 +1,15 @@
+Nom,Mot de passe,Role
+test,test,admintest,test,etudiant
+prof,prof,professeur
+eleve,eleve,etudiant
+eleve1,test,etudiant
+yolo,yolo,etudiant
+yanis,yanis,etudiant
+ey,test,etudiant
+ju,ju,etudiant
+prof1,test,professeur
+ju,ju,etudiant
+fred,fred,etudiant
+faaa,mdp,etudiant
+julienfont,mdp,etudiant
+zayneb,123456789,etudiant
